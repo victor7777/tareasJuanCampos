@@ -1,0 +1,36 @@
+import java . 10 .*;
+
+public class usuariovictor implements serealizable {
+
+public usuariovictor() {
+}
+
+private string nombre ;
+private string pregunta ;
+private string signozodiacal;
+private string numerodelasuerte;
+
+
+try {
+
+int ta= guardarvictor.leer().size();
+
+for (int i=0;i<ta;i++){
+tabla.setvalueat(guardarvictor.leer().get(i).getnombre());
+tabla.setvalueat(guardarvictor.leer().get(i).getpregunta());
+tabla.setvalueat(guardarvictor.leer().get(i).getsignozodiacal());
+tabla.setvalueat(guardarvictor.leer()get(i).getnumerodelasuerte());
+}
+} catch
+
+
+guardarvictor.guardar(new victor(textonombre.gettext(),
+(textopregunta.gettext(),textosignozodiacal.gettext(),textonumerodelasuerte.gettext()));
+
+textonombre.settext(null);
+textopregunta.settext(null);
+textosignozodiacal.settext(null);
+textonumerodelasuerte.settext(null);
+
+
+ 
