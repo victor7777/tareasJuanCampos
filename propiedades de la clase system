@@ -1,0 +1,45 @@
+Timer (Clase)
+
+.
+Jerarquía de herencia
+System.Object 
+  System.MarshalByRefObject
+    System.ComponentModel.Component
+      System.Timers.Timer
+      Array (Clase)
+
+.
+Proporciona métodos para la creación, manipulación, búsqueda y ordenación de matrices, por lo tanto, sirve como clase base para todas las matrices de Common Language Runtime.
+Jerarquía de herencia
+System.Object 
+  System.Array
+  MailMessage (Clase)
+
+
+Representa un mensaje de correo electrónico que puede enviarse mediante la clase SmtpClient.
+Jerarquía de herencia
+System.Object 
+  System.Net.Mail.MailMessage
+  DynamicObject (Clase)
+
+.NET Framework 4.5 Otras versiones Este tema aún no ha recibido ninguna valoración - Valorar este tema
+Proporciona una clase base para especificar el comportamiento dinámico en tiempo de ejecución. Esta clase debe heredarse; no pueden crearse instancias de la misma directamente.
+Jerarquía de herencia
+System.Object 
+  System.Dynamic.DynamicObject
+    System.Windows.Interop.DynamicScriptObject
+    Font (Clase)
+
+.NET Framework 4.5 Otras versiones Personas que lo han encontrado útil: 1 de 3 - Valorar este tema
+Define un formato concreto para el texto, incluidos el nombre de fuente, el tamaño y los atributos de estilo. Esta clase no puede heredarse.
+Jerarquía de herencia
+System.Object 
+  System.MarshalByRefObject
+    System.Drawing.Font
+Exception (Clase)
+
+.NET Framework 4.5 Otras versiones Personas que lo han encontrado útil: 5 de 6 - Valorar este tema
+Representa los errores que se producen durante la ejecución de una aplicación.
+Jerarquía de herencia
+System.Object 
+  System.Exception
