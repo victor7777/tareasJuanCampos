@@ -1,0 +1,16 @@
+   actualizar
+
+
+public static usuario actulizarporid (int id) throws exception {
+              usuario u =new usuario();
+             usurio u =buscartodos().get(id);
+return u ;
+} 
+ 
+  borrar
+
+public static usuario borrarporid (int id) throws exception {
+              usuario u =new usuario();
+               usuario u =buscartodos().get(id);
+return u ;
+
